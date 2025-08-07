@@ -214,7 +214,7 @@ in the Software without restriction...
 
 **Danilo Madia** - Independent Theoretical Physics Researcher
 
-- 📧 Email: [contact@danilomadia.research](mailto:contact@danilomadia.research)
+- 📧 Email: [madia.danilo85@gmail.com](mailto:madia.danilo85@gmail.com)
 - 🔬 Research: Fractal Graviton Theory, Multidimensional Physics
 - 📚 Publications: Zenodo Repository, arXiv submissions
 
